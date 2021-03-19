@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**MaxFanCheak/MaxFanCheak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>I'm student of Computer Technologies Department in ITMO University.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little bit more about me...  
+
+```swift
+struct aboutMe {
+    let name = "Maxim"
+    var course = 1
+    let university = "ITMO University, CT department"
+    var skills = ["Java", "C/C++", "Algorithms and data structures", "Discreet Math", "Linear Algebra", "Delphi", "OS", "Computer Architecture"]
+    var currentCourses = skills + ["Paradigms of programminng", "JavaScript", "Clojure", "Prolog", "Python", "SQL", "Math analysis"]
+}
+```
+
