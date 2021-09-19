@@ -11,7 +11,7 @@ struct aboutMe {
     var course = 2
     let university = "ITMO University, CT department"
     var mainSkils = ["Swift", "Java", "C/C++", "Python", "Discreet Math", "Linear Algebra", "Math Analisys"]
-    var addSkills = ["Cotlin", "Algorithms and data structures", "JavaScript", "Clojure", "Prolog", "SQL" , "OS", "Computer Architecture", "Paradigms of programminng", "OOP"]
+    var addSkills = ["Kotlin", "Algorithms and data structures", "JavaScript", "Clojure", "Prolog", "SQL" , "OS", "Computer Architecture", "Paradigms of programminng", "OOP"]
     var currentCourses = ["Discreet Math", "Math Analisys", "Python", "Algorithms and data structures", "Discreet Math"]
 }
 ```
