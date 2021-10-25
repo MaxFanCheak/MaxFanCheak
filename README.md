@@ -10,8 +10,8 @@ struct aboutMe {
     let name = "Maxim"
     var course = 2
     let university = "ITMO University, CT department"
-    var mainSkils = ["Swift/IOS", "C/C++", "Java", "Algorithms and data structures", "Discreet Math", "Linear Algebra", "Math Analisys"]
-    var addSkills = ["Bash", "Python", "Kotlin", "JavaScript", "Clojure", "Prolog", "SQL" , "OS", "Computer Architecture", "Paradigms of programminng", "Git"]
+    var mainSkils = ["Swift/IOS", "UIKit", "SwiftUI", "CoreAnimations", "C/C++", "Git", "Bash"]
+    var addSkills = ["Java", "Algorithms and data structures", "Discreet Math", "Linear Algebra", "Math Analisys", "Python", "Kotlin", "JavaScript", "Clojure", "Prolog", "SQL" , "OS", "Computer Architecture", "Paradigms of programminng"]
     var currentCourses = ["Discreet Math", "Math Analisys", "IOS", "Algorithms and data structures", "OS", "Differential equations"]
 }
 ```
