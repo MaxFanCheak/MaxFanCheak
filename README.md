@@ -9,8 +9,8 @@
 struct aboutMe {
     let name            =   "Max"
     var credo           =   "Ingineer in Huawei, working on optimizing HarmonyOS"
-    var course          =   2
     let university      =   "ITMO University, Computer Technologies Department, Bachelor"
+    var course          =   2
     let graduate        =   "Higher college of informatics"
     var mainSkils       =   ["Swift/IOS", "C/C++", "Algorithms and data structures", "Discreet Math", "Probability theory", "Linear Algebra", "Math Analisys"]
     var addSkills       =   ["Linux/MacOS/Bash", "OOP/Functional programming", "Paradigms of programming", "Git", "Differential equations", "Analytic geometry"]
