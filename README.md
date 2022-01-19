@@ -7,12 +7,13 @@
 
 ```swift
 struct aboutMe {
-    let name = "Maxim"
-    var course = 2
-    let university = "ITMO University, CT department"
-    var mainSkils = ["Swift/IOS", "C/C++", "Java", "Algorithms and data structures", "Discreet Math", "Linear Algebra", "Math Analisys"]
-    var addSkills = ["Bash", "Python", "Kotlin", "JavaScript", "Clojure", "Prolog", "SQL" , "OS", "Computer Architecture", "Paradigms of programminng", "Git"]
-    var currentCourses = ["Discreet Math", "Math Analisys", "IOS", "Algorithms and data structures", "OS", "Differential equations"]
+    let name            =   "Max"
+    var course          =   2
+    let university      =   "ITMO University, Computer Technologies Department"
+    var mainSkils       =   ["Swift/IOS", "C/C++", "Algorithms and data structures", "Discreet Math", "Probability theory", "Linear Algebra", "Math Analisys"]
+    var addSkills       =   ["Linux/MacOS/Bash", "OOP/Functional programming", "Paradigms of programming", "Git", "Differential equations", "Analytic geometry"]
+    var usedlanguages   =   ["Swift/Objective-C", "C/C++", "Java", "Python", "Kotlin", "JavaScript", "Clojure", "Prolog", "JS"]
+    var currentCourses  =   ["Advanced algorithms and data structures", "Probability theory", "Discreet Math", "Math Analisys", "Advanced java", "Mathematical logic"]
 }
 ```
 
