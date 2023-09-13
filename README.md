@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<p align='center'>I'm student of Computer Technologies Department in ITMO University.</p>
+<p align='center'>I'm ingineer in Huawei, working on optimizing HarmonyOS</p>
 
 
 ### A little bit more about me...  
@@ -8,7 +8,7 @@
 ```swift
 struct aboutMe {
     let name            =   "Max"
-    var credo           =   "Ingineer in Huawei, working on optimizing HarmonyOS"
+    var credo           =   "Professional cheerleader"
     let university      =   "ITMO University, Computer Technologies Department, Bachelor"
     var course          =   3
     let graduate        =   "Higher college of CS"
