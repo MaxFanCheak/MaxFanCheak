@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<p align='center'>I'm ingineer in Huawei, working on optimizing HarmonyOS</p>
+<p align='center'>I'm engineer in Huawei, working on optimizing HarmonyOS</p>
 
 
 ### A little bit more about me...  
