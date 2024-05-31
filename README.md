@@ -8,7 +8,7 @@
 ```swift
 struct aboutMe {
     let name            =   "Max"
-    var credo           =   "Professional cheerleader, Football"
+    var credo           =   "Cheerleader, Football"
     let university      =   "ITMO University, Computer Technologies Department, Bachelor"
     var course          =   3
     let graduate        =   "Higher college of CS"
