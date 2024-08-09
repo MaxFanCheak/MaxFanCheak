@@ -10,7 +10,7 @@ struct aboutMe {
     let name            =   "Max"
     var credo           =   "Cheerleader, Football"
     let university      =   "ITMO University, Computer Technologies Department, Bachelor"
-    var course          =   3
+    var course          =   4
     let graduate        =   "Higher college of CS"
     var usedLanguages   =   ["Python", "SQL", "C/C++", "Java", "Rust", "Swift/Objective-C"]
     var usedFrameworks  =   ["PyTorch", "matplotlib", "NumPy", "statsmodels", "SCiPy", "xgboost", "SciKit-Learn"]
