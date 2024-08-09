@@ -9,7 +9,7 @@
 struct aboutMe {
     let name            =   "Max"
     var credo           =   "Cheerleader, Football"
-    let university      =   "ITMO University, Computer Technologies Department, Bachelor"
+    var university      =   "ITMO University, Computer Technologies Department, Bachelor"
     var course          =   4
     let graduate        =   "Higher college of Computer Science"
     var usedLanguages   =   ["Python", "SQL", "C/C++", "Java", "Rust", "Swift"]
