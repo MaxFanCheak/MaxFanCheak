@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<p align='center'>Average Machine Learning Enjoyer</p>
+<p align='center'>"Average Machine Learning Enjoyer"</p>
 
 
 ### A little bit more about me...  
